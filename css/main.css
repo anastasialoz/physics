@@ -144,7 +144,7 @@ img {
   margin-bottom: 150px;
 }
 .home{
-  background-image: url(/img/home.jpg);
+  background-image: url(./img/home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
